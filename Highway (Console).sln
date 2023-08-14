@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Highway (Console)", "Highway (Console)\Highway (Console).csproj", "{EED7AE9E-109B-4AA0-AEE1-67DAAB65CF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED7AE9E-109B-4AA0-AEE1-67DAAB65CF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED7AE9E-109B-4AA0-AEE1-67DAAB65CF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED7AE9E-109B-4AA0-AEE1-67DAAB65CF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED7AE9E-109B-4AA0-AEE1-67DAAB65CF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F2DA51-2E5E-4803-B0F8-0BF9A0813829}
+	EndGlobalSection
+EndGlobal
